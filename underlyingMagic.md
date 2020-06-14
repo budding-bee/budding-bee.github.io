@@ -14,9 +14,3 @@ layout: post
  - [x] Wants
  - [x] Fears
  - [x] Needs
-
-Instagram @buddingbee
-Facebook @buddingbeeevents
-Email buddingeventsforest@gmail.com
-Youtube buddingevents
-Phone 9324776363
