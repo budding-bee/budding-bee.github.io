@@ -10,7 +10,7 @@ collections:
     output: true
 email: buddingeventforest@gmail.com
 description: Creating Event FOrest
-baseurl: ""
+baseurl: ''
 url: https://budding-bee.github.io
 icon: "/assets/images/icon-512.png"
 twitter_username: budding_bee

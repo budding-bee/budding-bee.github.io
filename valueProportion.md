@@ -2,6 +2,7 @@
 title: Value-Proportion
 layout: post
 ---
+
 1. Enquiry <br/>
     First of all the enquiry is done
 2. Requirement Analysis <br/>
