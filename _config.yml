@@ -1,5 +1,5 @@
 ---
-title: Hitchens
+title: Budding
 timezone: UTC
 collections:
   posts:
@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 email: buddingeventforest@gmail.com
-description: Creating Event F0rest
-baseurl: "/hitchens"
+description: Creating Event FOrest
+baseurl: ""
 url: https://budding-bee.github.io
 icon: "/assets/images/icon-512.png"
 twitter_username: budding_bee
