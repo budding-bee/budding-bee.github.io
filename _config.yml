@@ -1,5 +1,5 @@
 ---
-title: Hitchens
+title: Budding
 timezone: UTC
 collections:
   posts:
@@ -8,13 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: hello@patdryburgh.com
-description: An inarguably well-designed Jekyll theme.
+email: buddingeventforest@gmail.com
+description: Creating Event F0rest
 baseurl: "/hitchens"
-url: https://patdryburgh.github.io
+url: https://budding-bee.github.io
 icon: "/assets/images/icon-512.png"
-twitter_username: patdryburgh
-github_username: patdryburgh
+twitter_username: budding_bee
+github_username: budding-bee
 markdown: kramdown
 plugins:
 - jekyll-paginate
