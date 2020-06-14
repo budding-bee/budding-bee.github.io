@@ -1,8 +1,10 @@
 ---
-title: ""
+title: ''
+date: 2018-07-24 00:00:00 Z
+categories:
+- opinion
 layout: post
-author: "Pat Dryburgh"
-categories: opinion
+author: Pat Dryburgh
 ---
 
 Not all posts need a title.
