@@ -1,0 +1,22 @@
+---
+title: Budding
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: buddingeventforest@gmail.com
+description: Creating Event FOrest
+baseurl: 
+url: https://budding-bee.github.io
+icon: "/assets/images/icon-512.png"
+twitter_username: budding_bee
+github_username: budding-bee
+markdown: kramdown
+plugins:
+- jekyll-paginate
+paginate: 3
+paginate_path: "/page/:num/"
