@@ -3,7 +3,7 @@ title: About
 layout: post
 ---
 
->  Hello World
+>Whenever someone becomes part of Budding they generally share their experience with buddies
 
 <figure>
   <img alt="Holi Image" src="{{site.baseurl}}/assets/images/holi.jpg" />
